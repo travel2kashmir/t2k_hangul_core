@@ -1,0 +1,1 @@
+from t2k_hangul_core.api import app

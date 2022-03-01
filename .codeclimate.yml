@@ -1,0 +1,7 @@
+exclude_patterns:
+- "**/test*.py"
+
+engines:
+  mypy:
+    enabled: true
+    channel: "beta"
